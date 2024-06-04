@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> N A P O L I </title>
+</head>
+<body>
+<center><h1><font color="green"> NAPOLI </font></h1></center>
+<br><br><br><br>
+<img src="napoli.jfif" width="400" height="300">
+<br><br><br><br>
+<p> Luogi a visitare a <b> NAPOLI </b>
+<ol type="1">
+<li> Teatro San Carlo </li>
+<li> Palazzo reale di napoli </li>
+<li> Piazza del Plebescito </li>
+<li> Castel dell'Ovo </li>
+</ol>
+</p>
+<a href="index.html"> Torna alla HOME </a>
+</body>
+</html>
